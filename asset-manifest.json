@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/restaurant/static/css/main.c988a1f1.chunk.css",
+    "main.js": "/github.io/restaurant/static/js/main.db23f091.chunk.js",
+    "main.js.map": "/github.io/restaurant/static/js/main.db23f091.chunk.js.map",
+    "runtime-main.js": "/github.io/restaurant/static/js/runtime-main.7de17332.js",
+    "runtime-main.js.map": "/github.io/restaurant/static/js/runtime-main.7de17332.js.map",
+    "static/js/2.73fe846a.chunk.js": "/github.io/restaurant/static/js/2.73fe846a.chunk.js",
+    "static/js/2.73fe846a.chunk.js.map": "/github.io/restaurant/static/js/2.73fe846a.chunk.js.map",
+    "static/js/3.1431d59c.chunk.js": "/github.io/restaurant/static/js/3.1431d59c.chunk.js",
+    "static/js/3.1431d59c.chunk.js.map": "/github.io/restaurant/static/js/3.1431d59c.chunk.js.map",
+    "index.html": "/github.io/restaurant/index.html",
+    "static/css/main.c988a1f1.chunk.css.map": "/github.io/restaurant/static/css/main.c988a1f1.chunk.css.map",
+    "static/js/2.73fe846a.chunk.js.LICENSE.txt": "/github.io/restaurant/static/js/2.73fe846a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de17332.js",
+    "static/js/2.73fe846a.chunk.js",
+    "static/css/main.c988a1f1.chunk.css",
+    "static/js/main.db23f091.chunk.js"
+  ]
+}
